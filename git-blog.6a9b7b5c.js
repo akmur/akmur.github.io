@@ -378,4 +378,4 @@ var t;!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?module
 },{"./components/About":"8HIm","./components/PostsList":"M2MV","./components/PostSingle":"Ph0z","./components/Home":"CojB","./helpers/render":"CiQy","./components/Switch":"qnHA","navigo":"Jwl3"}],"Focm":[function(require,module,exports) {
 "use strict";var e=r(require("./src/App"));function r(e){return e&&e.__esModule?e:{default:e}}require("./src/scss/styles.scss"),(0,e.default)();var s=document.querySelectorAll("code");if(s)for(var l=0;l<s.length;l++){var t=s[l];hljs.highlightBlock(t)}
 },{"./src/App":"FLHj","./src/scss/styles.scss":"sC8V"}]},{},["Focm"], null)
-//# sourceMappingURL=/git-blog.d64bc916.map
+//# sourceMappingURL=/git-blog.4eeafa8f.map
